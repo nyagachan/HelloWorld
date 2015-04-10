@@ -19,5 +19,7 @@ public class HelloWorld {
         System.out.print("こんにちは、世界");
         System.out.println("GoodBye,World");
         System.out.print("さようなら、世界");
+        System.out.println("Good Evening");
+        System.out.print("こんばんは");
     }
 }
